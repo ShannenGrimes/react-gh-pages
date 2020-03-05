@@ -1,4 +1,5 @@
-![logo](/react-gh-pages/build/logo512.png)
+# Clicky Game - NHL Match
+![logo512](https://user-images.githubusercontent.com/54419873/76018514-c8f14c00-5ee5-11ea-83ac-8758d563be54.png)
 
 **Created By**: `Shannen Grimes`
 - - -
@@ -8,8 +9,8 @@
 This is a web application built with React.  The application is a game that randomly generates images of hockey players.  Once you choose an image and click on it, images will shuffle.  The goal of the game is to click each image only once.  If you click an image more than once, you lose.  
 - - - 
 
-## Video of Bamazon working
-![Giphy](https://gph.is/g/ajWvPmY)
+## Video of the game working
+![Giphy](https://j.gifs.com/nxoP0D.gif)
 - - -
 [Click Here to Watch Video on YouTube](https://youtu.be/-24bN1DUXeg)
 
@@ -33,7 +34,7 @@ This is a web application built with React.  The application is a game that rand
 1. Node.js
 2. React
 3. CLI Table
-4. GIPHY
+4. gif.com
 5. YouTube
 6. Screencast
 7. Heroku
