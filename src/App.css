@@ -2,12 +2,16 @@
   width: 100%;
   text-align: center;
   margin-bottom: 0px;
+  color: antiquewhite;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .scoreSummary {
   width: 100%;
   text-align: center;
   margin-bottom: 20px;
+  color: yellow;
+  font-family: 'Abel', sans-serif;
 }
 
 .row {
