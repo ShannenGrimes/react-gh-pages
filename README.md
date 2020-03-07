@@ -44,4 +44,4 @@ This is a web application built with React.  The application is a game that rand
 
 ## Links
 
-Try the game on [Heroku](https://murmuring-refuge-69882.herokuapp.com) or [GitHub](https://shannengrimes.github.io/clicky-game/)!
+Try the game on [GitHub!](https://shannengrimes.github.io/react-gh-pages/)
